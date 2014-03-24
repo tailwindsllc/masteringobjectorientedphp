@@ -1,4 +1,4 @@
-masteringobjectorientedphp
+Found A Bug?
 ==========================
 
-The place for Mastering Object Oriented PHP
+If you've found a bug with Mastering Object Oriented PHP, please file an issue here!
